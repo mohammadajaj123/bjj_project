@@ -56,3 +56,4 @@ For position classification results, run the `evaluate_positions.py` script.
   year={2022}
 }
 ```
+# bjj_project
